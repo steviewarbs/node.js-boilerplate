@@ -4,7 +4,7 @@ Boilerplate code for creating Node.js backend. Packaged with express, body-parse
 
 ## Installation
 
-Please ensue node is installed prior to forking.
+Please ensure node is installed prior to forking.
 
 ```
 node app.js - (starts server)
@@ -17,7 +17,7 @@ npm install body-parser
 ## Usage
 
 ```
-This simple framework is a Node.js backend which includes all the boilerplate code and framework to spin up projects quickly. 
+This simple framework is a Node.js backend which includes all the boilerplate code and modules to spin up projects quickly. 
 Comes packaged with express, body-parser, nodemon and axios acting as the middleware. There is no DB dependencies packaged in. 
 ```
 
