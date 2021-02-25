@@ -7,7 +7,11 @@ Boilerplate code for creating Node.js backend. Packaged with express, body-parse
 Please ensue node is installed prior to forking.
 
 ```
-node server.js 
+node app.js - (starts server)
+
+npm install express
+npm install axios
+npm install body-parser
 ```
 
 ## Usage
